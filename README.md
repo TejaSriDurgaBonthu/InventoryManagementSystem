@@ -1,5 +1,5 @@
 # InventoryManagementSystem
-# Inventory Management System
+
 
 ## Overview
 
